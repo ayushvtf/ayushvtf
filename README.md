@@ -4,11 +4,6 @@
 [![Linkedin: Ayush Verma](https://img.shields.io/badge/-Ayush%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushvtf/)](https://www.linkedin.com/in/ayushvtf/)
 [![Twitter: Ayush Verma](https://img.shields.io/twitter/follow/ayushvtf?style=social)](https://twitter.com/ayushvtf)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ayushvtf&left_color=gray&right_color=blue)
-  
-DevOps Engineer | Derivatives trader
-
-[![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushvtf&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/ayushvtf/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushvtf&layout=compact&theme=calm)](https://github.com/ayushvtf/github-readme-stats)
 
 ## My contribution streak
 <!-- https://github.com/kcoder63/github-readme-streak-stats -->
