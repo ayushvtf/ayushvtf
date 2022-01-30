@@ -1,11 +1,9 @@
 ## Hey! I'm Ayush Verma. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub ayushvtf](https://img.shields.io/github/followers/ayushvtf?label=follow&style=social)](https://github.com/ayushvtf)
-[![Linkedin: Ayush Verma](https://img.shields.io/badge/-Ayush%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/verma-Ayush/)](https://www.linkedin.com/in/verma-Ayush/)
-[![Twitter: Ayush Verma](https://img.shields.io/twitter/follow/Ayushverma_?style=social)](https://twitter.com/Ayushverma_)
+[![Linkedin: Ayush Verma](https://img.shields.io/badge/-Ayush%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushvtf/)](https://www.linkedin.com/in/ayushvtf/)
+[![Twitter: Ayush Verma](https://img.shields.io/twitter/follow/ayushvtf?style=social)](https://twitter.com/ayushvtf)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ayushvtf&left_color=gray&right_color=blue)
-[![Medium Badge](https://img.shields.io/badge/-@Ayush%20Verma-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@Ayush-verma)](https://medium.com/@Ayush-verma)
-[![Polywork Badge](https://img.shields.io/badge/-Ayushverma-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/Ayushverma)](http://polywork.com/Ayushverma)
   
 DevOps Engineer | Derivatives trader
 
