@@ -2,7 +2,6 @@
 
 [![GitHub ayushvtf](https://img.shields.io/github/followers/ayushvtf?label=follow&style=social)](https://github.com/ayushvtf)
 [![Linkedin: Ayush Verma](https://img.shields.io/badge/-Ayush%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushvtf/)](https://www.linkedin.com/in/ayushvtf/)
-[![Twitter: Ayush Verma](https://img.shields.io/twitter/follow/ayushvtf?style=social)](https://twitter.com/ayushvtf)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ayushvtf&left_color=gray&right_color=blue)
 
 ## My contribution streak
