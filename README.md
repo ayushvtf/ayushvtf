@@ -1,8 +1,5 @@
 ## Hey! I'm Ayush Verma. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![GitHub ayushvtf](https://img.shields.io/github/followers/ayushvtf?label=follow&style=social)](https://github.com/ayushvtf)
-[![Linkedin: Ayush Verma](https://img.shields.io/badge/-Ayush%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushvtf/)](https://www.linkedin.com/in/ayushvtf/)
-
 ## My contribution streak
 <!-- https://github.com/kcoder63/github-readme-streak-stats -->
 <p align="center">
